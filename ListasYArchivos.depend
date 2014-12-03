@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417543557 source:/home/turupawn/Projects/ListasYArchivos/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+
